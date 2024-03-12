@@ -6,4 +6,4 @@
 * Google Colab
 
 #### Progress
-* Ch6
+* [Ch6](https://zh.d2l.ai/chapter_convolutional-neural-networks/lenet.html)
